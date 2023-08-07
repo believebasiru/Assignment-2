@@ -23,4 +23,4 @@
 
 // Challenge 5
 // Write a javascript program that calculates a simultaneous equation using the almighty formula(quadratic formula).
-// Hint: Known what the almighty formula, pass in the a,b,c of the almighty formula as a parameter
+// Hint: Know what the almighty formula, pass in the a,b,c of the almighty formula as a parameter
